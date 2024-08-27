@@ -44,7 +44,7 @@ The following table presents the classification results.
 
 
 
-### 2 Classification of Stablecoin Discussions (Excluding Risk-Related Topics)
+### 2. Classification of Stablecoin Discussions (Excluding Risk-Related Topics)
 
 We randomly selected 100 posts from a total of 1,192 posts on the topic of "Classification of Stablecoin Discussions Excluding Risk-Related Topics" using a randomization function for thematic analysis. Two authors independently analyzed 20% of the selected posts, developing initial codes and refining them through iterative comparison until a consistent codebook was established. Following this, the two authors applied the finalized codebook to the remaining posts and conducted a final consistency check after coding all the posts. This iterative process ensured the development of a robust and reliable coding framework.
 
@@ -78,7 +78,7 @@ The following table presents the classification results.
 | Tax Implications and Considerations for Stablecoins | Discuss the tax considerations associated with stablecoins, including how they are treated under different tax jurisdictions, reporting requirements, and potential tax liabilities. | Hello, I'm currently in talks to join a remote company that would pay me a salary in USDC. Although I find it exciting to be paid in crypto, I have a few concerns. Is it rather safe? | 38            |
 
 
-### 3 Classification of Stablecoin Security Risk Discussions
+### 3. Classification of Stablecoin Security Risk Discussions
 
 In our study, we also randomly selected 100 posts from a total of 4,211 using a randomization function for thematic analysis. Two authors independently analyzed 20% of the selected posts, developing initial codes and refining them through iterative comparison until a consistent codebook was established. The finalized codebook was then applied by the two authors to the remaining posts, followed by a final consistency check after coding all posts. This iterative process ensured the creation of a robust and reliable coding framework.
 
