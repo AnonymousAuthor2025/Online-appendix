@@ -1,6 +1,6 @@
 ### Classification of Concerns and Discusion on Stablelcoins
 
-| Theme                                      | Examples                                                                                                            | Percentage (%) |
+| Category                                      | Examples                                                                                                            | Percentage (%) |
 |--------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------|
 | Comparisons of different stablecoins       | The differences between USDT vs USDC vs DAI - which is the best stablecoin?                                         | 52%            |
 | Discussions on the emergence of stablecoins| Why are you guys using stablecoins?                                                                                 | 28%            |
