@@ -1,6 +1,6 @@
 # Sample List For Sources of Information
 
-We first examined the Ethereum Foundation’s introductions to stablecoins, and subsequently, we reviewed whitepapers and websites of notable stablecoin projects highlighted by the Ethereum Foundation. We explored the array of stablecoins listed on CoinMarketCap and discovered many notable projects, not only limited to those enumerated by Ethereum, such as USDT [^8] and Binance USD (BUSD) [^9] of fiat-backed stablecoins, LUSD [^13] and Magic Internet Money (MIM) [^12] of crypto-backed stablecoins, UST [^14] and FRAX [^5] of algorithmic stablecoins. 
+We first examined the Ethereum Foundation’s introductions to stablecoins, and subsequently, we reviewed whitepapers and websites of notable stablecoin projects highlighted by the Ethereum Foundation. We explored the array of stablecoins listed on CoinMarketCap and discovered many notable projects, not only limited to those enumerated by Ethereum, such as USDT [^1] and Binance USD (BUSD) [^2] of fiat-backed stablecoins, LUSD [^3] and Magic Internet Money (MIM) [^4] of crypto-backed stablecoins, UST [^5] and FRAX [^6] of algorithmic stablecoins. 
 
 The following provides an introduction to three resources:
 
@@ -24,7 +24,7 @@ The following provides an introduction to three resources:
    - Total supply 
    - About: stablecoin introduction
 
-## Stablecoin Framework Development
+# Stablecoin Framework Development
 
 We used an inductive coding method to identify the issuance and use cases of stablecoins. From introductions from the Ethereum Foundation, we identified three common types of stablecoins:
 
@@ -44,13 +44,13 @@ Stablecoins support a wide range of use cases. After the issuance of stablecoins
 
 Stablecoins extend beyond the crypto market to daily life. They can be easily transferred between individuals, simplifying international remittances and providing a convenient payment option for everyday purchases.
 
-[^8]: Reference for USDT
-[^9]: Reference for BUSD
-[^13]: Reference for LUSD
-[^12]: Reference for MIM
-[^14]: Reference for UST
-[^5]: Reference for FRAX
-[^10]: Reference for USDC
-[^7]: Reference for DAI
-[^4]: Reference for Ampleforth
+[^1]: Tether.  Available at: [https://tether.to/en/how-it-works](https://tether.to/en/how-it-works). Accessed 2023.
+[^2]: Binance. Available at: [https://www.binance.com/en/busd](https://www.binance.com/en/busd). Accessed 2023.
+[^3]: Liquity. Available at: [https://www.liquity.org/](https://www.liquity.org/). Accessed 2023.
+[^4]: MIM. Available at: [https://www.gemini.com/trust-center](https://www.gemini.com/trust-center). Accessed 2023.
+[^5]: UST. Available at: [https://www.terra.money/](https://www.terra.money/). Accessed 2023.
+[^6]: FRAX. Available at:[https://docs.frax.finance/](https://docs.frax.finance/)
+[^7]: USDC. Available at:[https://www.circle.com/en/usdc](https://www.circle.com/en/usdc})
+[^8]: DAI. Available at:[https://makerdao.com/en/whitepaper](https://makerdao.com/en/whitepaper)
+[^9]: Ampleforth. Available at:[https://docs.ampleforth.org/learn/about-the-ampleforth-protocol](https://docs.ampleforth.org/learn/about-the-ampleforth-protocol)
 
