@@ -84,6 +84,21 @@ In our study, we also randomly selected 100 posts from a total of 4,211 using a 
 
 To categorize the entire set of posts, we employed ChatGPT-4. We began by providing the AI with the manually developed coding criteria as a prompt and tested its accuracy by having it classify the same 100 posts that had already been manually coded. ChatGPT-4 achieved an accuracy rate of 91% in this task. Following this validation, we used the same criteria to categorize the remaining posts with ChatGPT-4. The following table presents the classification results.
 
+####  Examples of Classification Instructions Prompts:
+Please categorize the text you enter afterward (the description of the post in the forum). The available types are listed below:
+
+- **A. Operator Risk**: It discusses the risks associated with a stablecoin issuer or operator, including potential mismanagement and lack of transparency.
+- **B. Collateral Risk**: It discusses the risks related to the backing reserves of stablecoins, such as the liquidity of collateral assets, over-collateralization, and the potential for collateral value fluctuations.
+- **C. Operational Risk**: It discusses the risks inherent in the operational mechanisms of stablecoins, including technological vulnerabilities and smart contract bugs.   
+- **D. Third-party Institutions Risk**: It discusses the risks associated with third-party institutions involved in stablecoin transactions, such as exchanges, custodians, and other intermediaries.
+- **E. Regulation Risk**: It discusses legal and regulatory issues impacting stablecoins, including compliance requirements, regulatory scrutiny, and the potential for legal restrictions by governmental authorities.
+
+For each input, you can select more than one of these categories. You only need to answer the serial number of the category, no explanations. If the category is not included above or it is not related to stablecoins, please answer "other categories."
+
+**Note**: Posts can only be categorized if their content clearly matches the category description, implied or potentially cannot be categorized.
+
+The following table presents the classification results.
+
 | Topic                     | Explanation                                                                                                                                                   | Example                                                                                                                            | Post Quantity |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | Operator Risk             | Discussions on the risks associated with the issuers or operators of stablecoins, including potential mismanagement and lack of transparency                   | The issuers or operators of the stablecoin are in a situation in which financial instability or fraud results in the loss of a user’s funds | 1449          |
