@@ -28,15 +28,15 @@ The following provides an introduction to three resources:
 
 We used an inductive coding method to identify the issuance and use cases of stablecoins. From introductions from the Ethereum Foundation, we identified three common types of stablecoins:
 
-- **Fiat-backed** (e.g., USDC [^10])
-- **Crypto-backed** (e.g., DAI [^7])
-- **Algorithmic stablecoins** (e.g., Ampleforth [^4])
+- **Fiat-backed** (e.g., USDC [^7])
+- **Crypto-backed** (e.g., DAI [^8])
+- **Algorithmic stablecoins** (e.g., Ampleforth [^9])
 
 Guided by these three stablecoin categories and based on market capitalization and descriptions from CoinMarketCap, we selected representative stablecoin projects for an in-depth analysis of their whitepapers.
 
-Taking fiat-backed stablecoin **USDT** as an example, its whitepaper delineates the stability mechanisms of USDT, its issuance process, and application scenarios, highlighting terms such as “1-to-1 basis”, “fiat currency”, “reserves”, “exceptional liquidity on tier-one exchanges” and “enabling consumers to purchase products and services”. 
+Taking fiat-backed stablecoin USDT as an example, its whitepaper delineates the stability mechanisms of USDT, its issuance process, and application scenarios, highlighting terms such as “1-to-1 basis”, “fiat currency”, “reserves”, “exceptional liquidity on tier-one exchanges” and “enabling consumers to purchase products and services”. 
 
-Similarly, the whitepaper of **DAI**, a crypto-backed stablecoin, focuses on its issuance process and applications, emphasizing “excess collateral”, “smart contracts”, “DeFi platforms” and “functionalities”. For the algorithmic stablecoin **AMPL**, keywords included “does not require any collateral”, “automatically increases or decreases supply”, “protocol” and “decentralized lending”.
+Similarly, the whitepaper of DAI, a crypto-backed stablecoin, focuses on its issuance process and applications, emphasizing “excess collateral”, “smart contracts”, “DeFi platforms” and “functionalities”. For the algorithmic stablecoin **AMPL**, keywords included “does not require any collateral”, “automatically increases or decreases supply”, “protocol” and “decentralized lending”.
 
 Two researchers collaboratively created a preliminary stablecoin ecosystem framework (see Figure 4) based on the outcomes of inductive analysis. The framework underwent an iterative refinement process, characterized by cycles of discussions and adjustments until a consensus was achieved regarding the structure and specifics.
 
