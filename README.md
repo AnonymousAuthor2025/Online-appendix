@@ -29,4 +29,5 @@ This repository contains supplementary materials related to our research studies
 ## Updated_version_Stablecoin_S_P_2024.pdf
 - This file is the modified full text of the paper.
 
-
+## ReviewA_Updated_version_Stablecoin_S_P_2024.pdf
+- In this file, the blue text highlights those sections that have undergone a minor revision according to Review A‘ suggestion.
