@@ -7,7 +7,7 @@ This repository contains supplementary materials related to our research studies
   This document provides detailed observations from the first study. It includes comprehensive notes and analysis of the data collected during the observation phase.
 
 ## Study 2: Interviews
-- **Study2_Interview: Codebook.png**  
+- **Study2_Interview: Codebook.md**  
   Contains the codebook used for analyzing the semi-structured interviews conducted with participants regarding their experiences with stablecoins.
 
 - **Study2_Interview: Interview Protocol.md**  
